@@ -1,0 +1,16 @@
+{
+  "name": "otf-render-middleware",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gocardless-client/otf-render-middleware.git"
+  },
+  "bugs": {
+    "url": "http://github.com/gocardless-client/otf-render-middleware/issues"
+  },
+  "dependencies": {
+    "lodash": "*",
+    "q": "*"
+  },
+  "main": "otf-render-middleware"
+}
